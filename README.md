@@ -1,7 +1,7 @@
 # Vision
 #### Vision ist ein Projekt der HTL Rennweg, dessen Ziel es ist, Querschnittsgelähmten Menschen den Alltag zu erleichtern
 
-Dieses Ziel wird sowohl von einem Software-Team (IT), als auch von einem Hardware-Team (Mechatronik) gemeinsame verfolgt.
+Dieses Ziel wird sowohl von einem Software-Team (IT), als auch von einem Hardware-Team (Mechatronik) gemeinsam verfolgt.
 In diesem Repository befindet sich der Code des Software-Teams.
 
 ### Technische Daten
